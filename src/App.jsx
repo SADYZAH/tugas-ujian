@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import UserCard from "./components/UserCard";
-import SearchBar from "./components/SearchBar";
-import { UserContext } from "./context/UserContext";
-import "./app.css";
+import Navbar from "./components/navbar";
+import Footer from "./components/footer";
+import UserCard from "./components/usercard";
+import SearchBar from "./components/searchbar";
+import { UserContext } from "./context/usercontext";
+import "./App.css";
 
 function App() {
   const [users, setUsers] = useState([]);
