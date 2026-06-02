@@ -38,7 +38,7 @@ React akan:
 ---
 
 ## 🖼️ Dokumentasi (Screenshot)
-/docs/screenshot.png
+![Screenshot](https://raw.githubusercontent.com/SADYZAH/tugas-ujian/main/docs/screenshot.png)
 
 ## 🚀 Cara Menjalankan Project
 
