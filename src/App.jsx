@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import UserCard from "./components/UserCard";
 import SearchBar from "./components/SearchBar";
-import { UserContext } from "./context/UserContext";
+import { UserContext } from "./context/UserContext.jsx";
 import "./app.css";
 
 function App() {
