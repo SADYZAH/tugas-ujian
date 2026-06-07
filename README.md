@@ -38,7 +38,7 @@ React akan:
 ---
 
 ## 🖼️ Dokumentasi (Screenshot)
-![Screenshot](./docs/Screenshot-2026-06-02-235954.png)
+![Screenshot](./docs/Screenshot%202026-06-02%20235954.png)
 
 ## 🚀 Cara Menjalankan Project
 
